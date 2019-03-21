@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <title>Accessibility Website</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  .affix {
+      top: 20px;
+  }
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Accessibility Website</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">About Us
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">The Project</a></li>
+          <li><a href="#">The People</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Play</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="row">
+    <nav class="col-sm-3">
+      <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
+        <li class="active"><a href="#">Zoom</a></li>
+        <li><a href="#">Font Size</a></li>
+      </ul>
+    </nav>
+    <div class="col-sm-8">
+      <p>Lorem ipsum dolor sit amet, recusabo facilisis vituperatoribus ea usu, sed et noster placerat facilisi. No mea case aliquam, ea quot aeterno suavitate mel, cu aeque appareat eos. Vidisse partiendo no usu, vel ad aperiri volutpat interesset. Odio quaestio pri in, nulla petentium at nec, pri modo torquatos abhorreant an. Vis fugit tollit feugiat et, wisi principes reformidans mea ea, ea sit albucius probatus convenire.</p>
+      <p>Sea ad omnes conclusionemque. Ea nam dicit dicunt blandit, nullam dignissim ad sea. Saepe ridens phaedrum cum et, vitae postulant reprimique vix eu. Ne nam quando consul, id facete eirmod mea, te mei ludus vitae. An sit ignota accumsan assentior, cu tota invidunt sit.</p>
+      <p>Pro te tritani tibique, meis ridens percipit ut quo. Sed in quodsi commodo, in justo noster dissentiet mei, ad vocibus corpora principes pro. Vix noster albucius interpretaris an, vim lorem albucius elaboraret ad. In mea noluisse officiis salutandi, corrumpit rationibus ei has. Recusabo mnesarchum vim no, nec an ferri phaedrum.</p>
+      <p>Sit semper qualisque te, sit dicit commune molestiae ea. Oratio diceret accusamus ne cum. Harum debitis et vim, et detraxit temporibus vis. Nam ad nostro definitiones, nobis nostro pri an.</p>
+      <p>Ius officiis inimicus id, ad pri labores debitis, iusto expetendis et per. Ei solum vidisse consectetuer usu, sed aliquid deserunt ex, at mea sale nonumy phaedrum. Eos ut iisque facilisi. Pro et prompta pericula adversarium, vix cu vivendo insolens hendrerit. Dolores tractatos sit an. Tempor legimus an mel, no cum nulla vivendo noluisse, duo at sumo aeque.</p>
+      <p>Lorem ipsum dolor sit amet, recusabo facilisis vituperatoribus ea usu, sed et noster placerat facilisi. No mea case aliquam, ea quot aeterno suavitate mel, cu aeque appareat eos. Vidisse partiendo no usu, vel ad aperiri volutpat interesset. Odio quaestio pri in, nulla petentium at nec, pri modo torquatos abhorreant an. Vis fugit tollit feugiat et, wisi principes reformidans mea ea, ea sit albucius probatus convenire.</p>
+      <p>Sea ad omnes conclusionemque. Ea nam dicit dicunt blandit, nullam dignissim ad sea. Saepe ridens phaedrum cum et, vitae postulant reprimique vix eu. Ne nam quando consul, id facete eirmod mea, te mei ludus vitae. An sit ignota accumsan assentior, cu tota invidunt sit.</p>
+      <p>Pro te tritani tibique, meis ridens percipit ut quo. Sed in quodsi commodo, in justo noster dissentiet mei, ad vocibus corpora principes pro. Vix noster albucius interpretaris an, vim lorem albucius elaboraret ad. In mea noluisse officiis salutandi, corrumpit rationibus ei has. Recusabo mnesarchum vim no, nec an ferri phaedrum.</p>
+      <p>Sit semper qualisque te, sit dicit commune molestiae ea. Oratio diceret accusamus ne cum. Harum debitis et vim, et detraxit temporibus vis. Nam ad nostro definitiones, nobis nostro pri an.</p>
+      <p>Ius officiis inimicus id, ad pri labores debitis, iusto expetendis et per. Ei solum vidisse consectetuer usu, sed aliquid deserunt ex, at mea sale nonumy phaedrum. Eos ut iisque facilisi. Pro et prompta pericula adversarium, vix cu vivendo insolens hendrerit. Dolores tractatos sit an. Tempor legimus an mel, no cum nulla vivendo noluisse, duo at sumo aeque.</p>
+      <p>Lorem ipsum dolor sit amet, recusabo facilisis vituperatoribus ea usu, sed et noster placerat facilisi. No mea case aliquam, ea quot aeterno suavitate mel, cu aeque appareat eos. Vidisse partiendo no usu, vel ad aperiri volutpat interesset. Odio quaestio pri in, nulla petentium at nec, pri modo torquatos abhorreant an. Vis fugit tollit feugiat et, wisi principes reformidans mea ea, ea sit albucius probatus convenire.</p>
+      <p>Sea ad omnes conclusionemque. Ea nam dicit dicunt blandit, nullam dignissim ad sea. Saepe ridens phaedrum cum et, vitae postulant reprimique vix eu. Ne nam quando consul, id facete eirmod mea, te mei ludus vitae. An sit ignota accumsan assentior, cu tota invidunt sit.</p>
+      <p>Pro te tritani tibique, meis ridens percipit ut quo. Sed in quodsi commodo, in justo noster dissentiet mei, ad vocibus corpora principes pro. Vix noster albucius interpretaris an, vim lorem albucius elaboraret ad. In mea noluisse officiis salutandi, corrumpit rationibus ei has. Recusabo mnesarchum vim no, nec an ferri phaedrum.</p>
+      <p>Sit semper qualisque te, sit dicit commune molestiae ea. Oratio diceret accusamus ne cum. Harum debitis et vim, et detraxit temporibus vis. Nam ad nostro definitiones, nobis nostro pri an.</p>
+      <p>Ius officiis inimicus id, ad pri labores debitis, iusto expetendis et per. Ei solum vidisse consectetuer usu, sed aliquid deserunt ex, at mea sale nonumy phaedrum. Eos ut iisque facilisi. Pro et prompta pericula adversarium, vix cu vivendo insolens hendrerit. Dolores tractatos sit an. Tempor legimus an mel, no cum nulla vivendo noluisse, duo at sumo aeque.</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
